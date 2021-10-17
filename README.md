@@ -1,6 +1,6 @@
-# hacktoberfest2018
+# hacktoberfest2021
 
-CodeDocs Hacktoberfest 2018 - participants, repositories and score
+CodeDocs Hacktoberfest 2021 - participants, repositories and score
 
 Register at - https://hacktoberfest.digitalocean.com/
 
